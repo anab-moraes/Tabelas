@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+td,
+th{
+    padding: 20px 40px;
+    border: 1px solid gray;
+
+}
+
+tr{
+    text-align: center;
+    border: 1px solid gray;
+}
+
+table{
+    margin: 100px 170px;
+    border-collapse: collapse;
+    border: 1px solid gray;
+    font-weight: 500;
+}
+
+
+
+.borda{
+    padding: 10px 20px;
+    border: 1px solid black;
+}
+
+.azul-c{
+    background-color: #7EBFF2;
+    color: white;
+}
+
+.azul-e{
+    background-color: #4A87EC;
+    color: white;
+}
+
+.roxa{
+     background-color: #7073EC;
+      color: white;
+}
+
+.preco{
+   font-size: 20px;
+    font-weight: 600;
+}
